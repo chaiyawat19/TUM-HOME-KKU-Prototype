@@ -4,13 +4,14 @@
 <div align="center">
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-Prototype%20Interactive-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Ptycb6IgYbPVFfCblgiy9g/G16-TUM-HOME-KKU-Prototype?node-id=0-1&t=XAHtU2DpT5ir8qFX-1)
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=oXSs5tzckq0)
 [![Khon Kaen University](https://img.shields.io/badge/KKU-Khon%20Kaen%20University-A73B24?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.kku.ac.th/)
 [![Group](https://img.shields.io/badge/Team-Group%2016%20(G16)-00897B?style=for-the-badge)](https://github.com/chaiyawat19/TUM-HOME-KKU-Prototype)
 [![Status](https://img.shields.io/badge/Design%20Status-Complete%20Showcase-success?style=for-the-badge)]()
 
 <br/>
 
-**🔗 [เปิดดู Interactive Prototype บน Figma (คลิกที่นี่)](https://www.figma.com/design/Ptycb6IgYbPVFfCblgiy9g/G16-TUM-HOME-KKU-Prototype?node-id=0-1&t=XAHtU2DpT5ir8qFX-1)**
+**🔗 [เปิดดู Interactive Prototype บน Figma (คลิกที่นี่)](https://www.figma.com/design/Ptycb6IgYbPVFfCblgiy9g/G16-TUM-HOME-KKU-Prototype?node-id=0-1&t=XAHtU2DpT5ir8qFX-1)** &nbsp;•&nbsp; **🎬 [รับชมคลิปแนะนำ ตุ้มโฮม บน YouTube (คลิกที่นี่)](https://www.youtube.com/watch?v=oXSs5tzckq0)**
 
 <p align="center">
   <b>“ตุ้มโฮม (TUM-HOME)”</b> แพลตฟอร์มค้นหาเพื่อนร่วมกิจกรรม ไลฟ์สไตล์ และคอมมูนิตี้สำหรับนักศึกษามหาวิทยาลัยขอนแก่น<br/>
@@ -22,9 +23,10 @@
 ---
 
 ## 📑 สารบัญ (Table of Contents)
-1. [เกี่ยวกับโครงการ (About TUM-HOME KKU)](#-เกี่ยวกับโครงการ-about-tum-home-kku)
-2. [ภาพรวมโฟลว์การทำงาน (System Architecture & User Flow)](#-ภาพรวมโฟลว์การทำงาน-system-architecture--user-flow)
-3. [ตารางเปรียบเทียบ Wireframe (Low-Fi) vs Prototype (High-Fi)](#-ตารางเปรียบเทียบ-wireframe-low-fi-vs-prototype-high-fi)
+1. [วิดีโอแนะนำแอปพลิเคชัน (Video Preview)](#-วิดีโอแนะนำแอปพลิเคชัน-application-preview-video)
+2. [เกี่ยวกับโครงการ (About TUM-HOME KKU)](#-เกี่ยวกับโครงการ-about-tum-home-kku)
+3. [ภาพรวมโฟลว์การทำงาน (System Architecture & User Flow)](#-ภาพรวมโฟลว์การทำงาน-system-architecture--user-flow)
+4. [ตารางเปรียบเทียบ Wireframe (Low-Fi) vs Prototype (High-Fi)](#-ตารางเปรียบเทียบ-wireframe-low-fi-vs-prototype-high-fi)
    - [01. Authentication & Onboarding](#01-authentication--onboarding-ระบบเข้าสู่ระบบและสมัครสมาชิก)
    - [02. Home Feed & Discovery](#02-home-feed--discovery-หน้าหลักและระบบค้นหา)
    - [03. Activity Creation Flow](#03-activity-creation-flow-ขั้นตอนการสร้างโพสต์หากิจกรรมทำร่วมกัน)
@@ -34,9 +36,24 @@
    - [07. Gamification & Rewards Redemption](#07-gamification--rewards-redemption-ระบบสะสมแต้มและแลกคูปองส่วนลด)
    - [08. User Profile & Membership](#08-user-profile--membership-โปรไฟล์และระบบสมาชิก-tum-home-club)
    - [09. Notifications, Settings & Help Center](#09-notifications-settings--help-center-การแจ้งเตือน-ตั้งค่า-และศูนย์ช่วยเหลือ)
-4. [Design System & UI Identity](#-design-system--ui-identity)
-5. [โครงสร้างไดเรกทอรีที่จัดระเบียบใหม่ (Directory Structure)](#-โครงสร้างไดเรกทอรีที่จัดระเบียบใหม่-directory-structure)
-6. [ตาราง Mapping ไฟล์เดิม ➔ ไฟล์ใหม่ (File Mapping Manifest)](#-ตาราง-mapping-ไฟล์เดิม--ไฟล์ใหม่-file-mapping-manifest)
+5. [Design System & UI Identity](#-design-system--ui-identity)
+6. [โครงสร้างไดเรกทอรีที่จัดระเบียบใหม่ (Directory Structure)](#-โครงสร้างไดเรกทอรีที่จัดระเบียบใหม่-directory-structure)
+7. [ตาราง Mapping ไฟล์เดิม ➔ ไฟล์ใหม่ (File Mapping Manifest)](#-ตาราง-mapping-ไฟล์เดิม--ไฟล์ใหม่-file-mapping-manifest)
+
+---
+
+## 🎬 วิดีโอแนะนำแอปพลิเคชัน (Application Preview Video)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=oXSs5tzckq0" target="_blank" title="คลิกเพื่อรับชมวิดีโอแนะนำ ตุ้มโฮมKKU Prototype บน YouTube">
+    <img src="https://img.youtube.com/vi/oXSs5tzckq0/maxresdefault.jpg" width="700" alt="2024 G16 ตุ้มโฮมKKU Prototype Video Preview" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.youtube.com/watch?v=oXSs5tzckq0" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Video%20Preview-2024%20G16%20ตุ้มโฮมKKU%20Prototype-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <p><i>🎬 คลิกที่ภาพหรือปุ่มด้านบน เพื่อรับชมคลิปวิดีโอแนะนำและการสาธิต Interaction Prototype ของแอปพลิเคชัน "ตุ้มโฮม มข." บน YouTube</i></p>
+</div>
 
 ---
 
@@ -374,3 +391,5 @@ tumhome/
 - **กลุ่มผู้พัฒนา**: Group 16 (G16)
 - **หัวข้อโครงงาน**: TUM-HOME KKU Mobile Application Prototype
 - **Figma File**: [G16-TUM-HOME-KKU-Prototype](https://www.figma.com/design/Ptycb6IgYbPVFfCblgiy9g/G16-TUM-HOME-KKU-Prototype?node-id=0-1&t=XAHtU2DpT5ir8qFX-1)
+- **YouTube Preview**: [2024 G16 ตุ้มโฮมKKU Prototype](https://www.youtube.com/watch?v=oXSs5tzckq0)
+
