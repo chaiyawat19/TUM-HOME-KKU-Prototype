@@ -1,4 +1,4 @@
-# TUM-HOME KKU (ทำโฮม มข.) — Lifestyle & Activity Matching Platform
+# TUM-HOME KKU (ตุ้มโฮม มข.) — Lifestyle & Activity Matching Platform
 ### 📱 Mobile UI/UX Design System: Wireframe (Low-Fi) & Prototype (High-Fi)
 
 <div align="center">
@@ -13,7 +13,7 @@
 **🔗 [เปิดดู Interactive Prototype บน Figma (คลิกที่นี่)](https://www.figma.com/design/Ptycb6IgYbPVFfCblgiy9g/G16-TUM-HOME-KKU-Prototype?node-id=0-1&t=XAHtU2DpT5ir8qFX-1)**
 
 <p align="center">
-  <b>“ทำโฮม (TUM-HOME)”</b> แพลตฟอร์มค้นหาเพื่อนร่วมกิจกรรม ไลฟ์สไตล์ และคอมมูนิตี้สำหรับนักศึกษามหาวิทยาลัยขอนแก่น<br/>
+  <b>“ตุ้มโฮม (TUM-HOME)”</b> แพลตฟอร์มค้นหาเพื่อนร่วมกิจกรรม ไลฟ์สไตล์ และคอมมูนิตี้สำหรับนักศึกษามหาวิทยาลัยขอนแก่น<br/>
   พร้อมระบบสะสมแต้ม Gamification และแลกสิทธิพิเศษคูปองส่วนลดร้านค้าชั้นนำรอบรั้ว มข.
 </p>
 
