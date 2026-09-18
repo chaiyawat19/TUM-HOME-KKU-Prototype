@@ -1,4 +1,4 @@
-# TUM-HOME KKU (ทำโฮม มข.) — Lifestyle & Activity Matching Platform
+# TUM-HOME KKU (ตุ้มโฮม มข.) — Lifestyle & Activity Matching Platform
 ### 📱 Mobile UI/UX Design System: Wireframe (Low-Fi) & Prototype (High-Fi)
 
 <div align="center">
